@@ -1,9 +1,9 @@
 # ReactJS Portfolio
 Completed Portfolio for Carlos Barrientos using Reactjs.
 
-[Link to GitHub Repository](https://github.com/WitnessMyHands/React-Portfolio)
+[Link to GitHub Repository](https://github.com/WitnessMyHands/reactjs-portfolio)
 
-[Live Site]()
+[Live Site](https://witnessmyhands.github.io/reactjs-portfolio/)
 
 ## License
 
