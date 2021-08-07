@@ -5,10 +5,6 @@ Completed Portfolio for Carlos Barrientos using Reactjs.
 
 [Live Site](https://witnessmyhands.github.io/reactjs-portfolio/)
 
-## License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Questions
 *Please contact WitnessMyHands via GitHub with any questions or concerns.*
 
